@@ -1,7 +1,11 @@
-# ✦ [Editorial](https://codevenger1805.github.io/editorial/)
+# ✦ [EDITORIAL](https://codevenger1805.github.io/editorial/)
 
-**Ideas, observations, and things I couldn't stop thinking about.**
+### *Thoughts on the things we usually scroll past.*
 
-A small collection of thoughts on **products, technology, people, and the occasional rabbit hole**.
+Little observations about **people, work, technology, ambition, and everyday life** — the things that seem ordinary until you look at them twice.
 
-Basically, this is where my brain puts the tabs it refuses to close.
+A conversation that stays with you.
+A problem everyone has quietly accepted.
+A 2 a.m. thought that suddenly makes sense.
+
+**Nothing too serious. Just things worth thinking about.**
